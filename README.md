@@ -1,8 +1,8 @@
 ### Date created
-Include the date you created this project and README file.
+Created on the 25 March 2020
 
 ### Project Title
-Replace the Project Title
+Project: Bikeshare Python  
 
 ### Description
 Describe what your project is about and what it does
